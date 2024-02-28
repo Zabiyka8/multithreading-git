@@ -15,7 +15,7 @@ public class MaxThread implements Runnable{
                 max = array[i];
             }
         }
-        System.out.println("Максималdfgdьное значение массива " + name + ": " + max);
+        System.out.println("Максимальное значение массива " + name + ": " + max);
     }
 
 }
